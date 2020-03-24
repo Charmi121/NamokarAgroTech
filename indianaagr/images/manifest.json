@@ -1,0 +1,13 @@
+{
+    "name": "Agro Vision",
+    "icons": [
+        {
+            "src": "../images/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f88a1e",
+    "background_color": "#f88a1e",
+    "display": "standalone"
+}
